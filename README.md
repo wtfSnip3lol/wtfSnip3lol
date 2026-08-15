@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hey there!</h1>
   <p>I'm <strong>Snip3</strong></p>
-  <p><em>Just a developer vibing on the internet</em></p>
+  <p><em>Just a random guy yk</em></p>
 </div>
 
 ---
